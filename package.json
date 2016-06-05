@@ -1,0 +1,19 @@
+{
+  "name": "inject-dom-element",
+  "version": "0.0.1",
+  "description": "create elements using object literals",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stillmtt/inject-dom-element.git"
+  },
+  "author": "stillmtt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stillmtt/inject-dom-element/issues"
+  },
+  "homepage": "https://github.com/stillmtt/inject-dom-element#readme"
+}
